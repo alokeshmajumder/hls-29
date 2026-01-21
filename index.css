@@ -6,10 +6,13 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  /* allow other sections to stack above while this section provides the background */
+  z-index: 0;
 }
 
 .u-section-1 .u-image-1 {
-  position: absolute;
+  /* keep the hero image as a background while scrolling (parallax-like) */
+  position: fixed;
   top: 0;
   left: 0;
   width: 100vw;
@@ -17,7 +20,8 @@
   object-fit: cover;
   object-position: top;
   margin: 0;
-  z-index: 0;
+  z-index: -1;
+  pointer-events: none;
 }
 
 .u-section-1 .u-text-1 {
@@ -132,7 +136,9 @@
     margin: 20px 0 0 0;
     padding: 0 20px;
   }
-}.u-section-2 .u-sheet-1 {
+}
+
+.u-section-2 .u-sheet-1 {
   min-height: 328px;
 }
 
