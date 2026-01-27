@@ -18,7 +18,7 @@
   width: 100vw;
   height: 100vh;
   object-fit: cover;
-  object-position: top;
+  object-position: center;
   margin: 0;
   z-index: -1;
   pointer-events: none;
@@ -149,6 +149,12 @@
 
 .u-section-2 .u-text-2 {
   margin: 20px 25px 60px;
+}
+
+.u-section-2 .u-text-2 .u-btn-1 {
+  display: inline;
+  margin: 0;
+  padding: 0;
 }
 
 @media (max-width: 1199px) {
