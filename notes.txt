@@ -1,4 +1,9 @@
-notes
+Funding Agencies
 
-img class="u-image u-image-default u-image-1" src="images/IIT_Ghibili.png" alt="" data-image-width="1536" data-image-height="1024"
 
+
+<section class="u-clearfix u-white u-section-9" id="funding">
+    <div class="u-clearfix u-sheet u-sheet-1">
+      <h2 class="u-text u-text-default u-text-font u-text-1"><span style="font-weight: 600;">Funding Agencies</h2>
+    </div>
+  </section>
