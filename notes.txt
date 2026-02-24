@@ -7,3 +7,59 @@ Funding Agencies
       <h2 class="u-text u-text-default u-text-font u-text-1"><span style="font-weight: 600;">Funding Agencies</h2>
     </div>
   </section>
+
+
+
+
+
+
+
+
+  https://formspree.io/f/xpqrqvdp
+
+
+
+
+
+
+  <div class="u-form-send-message u-form-send-success">Thank you! Your message has been sent.</div>
+            <div class="u-form-send-error u-form-send-message">Unable to send your message. Please fix errors then try again.</div>
+            <input type="hidden" value="" name="recaptchaResponse">
+            <input type="hidden" name="formServices" value="4b13d3af-3c76-e637-bde8-f3bb1fd3cca4">
+
+
+
+
+
+
+
+
+
+<div class="data-layout-selected u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-2">
+                  <div class="u-gutter-0 u-layout">
+                    <div class="u-layout-row">
+                      <div class="Object]-md u-align-center u-container-align-center u-container-style u-layout-cell u-shape-rectangle u-size-23 u-size-[object u-layout-cell-3">
+                        <div class="u-container-layout u-container-layout-4">
+                          <img class="u-image u-image-circle u-image-2" src="images/arjun1.jpg" alt="" data-image-width="1200" data-image-height="1200" data-href="https://hss.iitd.ac.in/faculty/arjun" data-target="_blank">
+                          <p class="u-text u-text-default u-text-3"><span style="font-weight: 500; font-size: 1.125rem;">
+                              <a href="https://hss.iitd.ac.in/faculty/arjun" class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-black u-btn-3" target="_blank">Arjun Ghosh</a></span>
+                            <br><span style="font-size: 1rem;">Professor</span>
+                            <br>
+                          </p>
+                          <a href="mailto:arjunghosh@hss.iitd.ac.in" class="u-active-none u-border-2 u-border-active-palette-1-dark-2 u-border-black u-border-hover-palette-1-dark-1 u-border-no-left u-border-no-right u-border-no-top u-btn u-btn-rectangle u-button-style u-hover-none u-none u-btn-4">arjunghosh@hss.iitd.ac.in </a>
+                        </div>
+                      </div>
+                      <div class="u-align-justify u-container-style u-layout-cell u-shape-rectangle u-size-37 u-layout-cell-4">
+                        <div class="u-container-layout u-container-layout-5">
+                          <p class="u-text u-text-4"><span style="font-weight: 700;">Research Areas:</span>
+                            <br>Digital Humanities, Performance Studies, Science and Technology Studies<br>
+                            <br><span style="font-weight: 700;">Academic Background:</span>
+                            <br> Ph.D., Jawaharlal Nehru University, New Delhi, India<br>
+                            <br><span style="font-weight: 700;">Teaching Areas:</span>
+                            <br> Digital Humanities, Performance Studies, Theatre Studies, Authorship, Copyright and Intellectual Property, Political Communication and Science and Technology Studies
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
